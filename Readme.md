@@ -3,7 +3,9 @@
 Notice is a simple **free to use** form submitter to telegram chat or channel.
 Get form submissions from your website forms directly to your telegram chats, and groups. Without using SMTP or buying a business email.
 
-How to use, tutorial: https://unlima.gitbook.io/notito-faq/
+Website: notito.unlima.space
+
+How to use tutorial: https://unlima.gitbook.io/notito-faq/
 
 Developer docs: https://app.notito.unlima.space/docs/api
 
