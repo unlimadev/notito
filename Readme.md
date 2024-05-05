@@ -15,6 +15,5 @@ Video tutorial: https://www.youtube.com/watch?v=nJWqCxaH53g
 
 Developed and operated by https://unlima.com
 
-Date 30.04.2024
 
 #notito #telegrambot #telegram #formsubmission #freea #freetouse
